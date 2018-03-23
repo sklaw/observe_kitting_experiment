@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+
+    <include file="$(find observe_kitting_experiment)/launch/launch_robotiq_force_sensor.launch"/>
+    <include file="$(find observe_kitting_experiment)/launch/launch_tactile_sensor.launch"/>
+
+</launch>

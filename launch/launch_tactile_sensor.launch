@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+
+    <node name="tactile_sensor_node" pkg="tactilesensors4" type="PollData4"/>
+
+</launch>
